@@ -1,0 +1,17 @@
+body {
+  background-color: midnightblue;
+}
+
+#mainDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#mainDiv > p {
+  color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  #font-family: "Times New Roman", Times, serif;
+}
